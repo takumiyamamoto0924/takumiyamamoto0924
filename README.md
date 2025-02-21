@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Takumi Yamamoto
 
-<p align="center">
+<p >
   <img src="https://github.com/user-attachments/assets/09462770-ee0f-4a28-bced-6df0cb97d4d3" width="600" height="200">
 </p>
 
